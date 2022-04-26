@@ -2,7 +2,7 @@
 
 ## How to get python
 
-Please install and use [asdf](https://asdf-vm.com). Once installed it will use the `.tool-versions` file to be aligned with your poject python supported version.
+Please install and use [asdf](https://asdf-vm.com) using the [python plugin](https://github.com/danhper/asdf-python). Once installed it will use the `.tool-versions` file to be aligned with your poject python supported version.
 
     asdf install python 3.10.4
     asdf reshim python
