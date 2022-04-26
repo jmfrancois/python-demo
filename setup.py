@@ -6,7 +6,7 @@ version = '1.0.0'
 setup(name='talend.demo',
       version=version,
       description="Demo",
-      long_description=open("README.rst").read() + "\n" +
+      long_description=open("README.md").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       classifiers=[
         "Programming Language :: Python",
