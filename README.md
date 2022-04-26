@@ -37,3 +37,11 @@ Now we have our super `py` command which is a python loaded with our package !
 >>> import talend.demo
 hello
 ```
+
+## buildout useful recipes and extensions
+
+- mr.developer
+- zc.recipe.egg
+- collective.recipe.omelette
+- collective.recipe.cmd
+- collective.recipe.cmmi

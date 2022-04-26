@@ -4,3 +4,5 @@
 *.egg-info
 .installed.cfg
 *.pyc
+.mr.developer.cfg
+/src
